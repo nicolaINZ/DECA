@@ -2,7 +2,7 @@
 # The Digital Equity Coalition Aotearoa (DECA) 
 
 
-## Te Reo Māori version coming soon 
+### Te Reo Māori version coming soon 
 
 
 ## What is this page about?
@@ -22,22 +22,22 @@ Read on below for some background, to find out more about what we are thinking, 
 ### What is digital inclusion/digital equity? 
 
 
-    Digital equity exists when everyone can access and effectively use digital technologies so as to participate in our society, democracy and economy. Digital equity is our ultimate goal.
+Digital equity exists when everyone can access and effectively use digital technologies so as to participate in our society, democracy and economy. Digital equity is our ultimate goal.
 
 
-    Digital inclusion refers to the initiatives and activities we undertake as we work towards digital equity. Digital inclusion is the means to achieve the goal. 
+Digital inclusion refers to the initiatives and activities we undertake as we work towards digital equity. Digital inclusion is the means to achieve the goal. 
 
 
 ### What does digital equity look like?
 
 
-    A good resource for understanding digital exclusion in New Zealand is the Out of the Maze report at [https://report.digitaldivides.nz/](https://report.digitaldivides.nz/).
+A good resource for understanding digital exclusion in New Zealand is the Out of the Maze report at [https://report.digitaldivides.nz/](https://report.digitaldivides.nz/).
 
 
-    There is also a lot of good information on the Department of Internal Affairs’ webpage: [https://www.digital.govt.nz/digital-government/digital-transformation/digital-inclusion/](https://www.digital.govt.nz/digital-government/digital-transformation/digital-inclusion/)
+There is also a lot of good information on the Department of Internal Affairs’ webpage: [https://www.digital.govt.nz/digital-government/digital-transformation/digital-inclusion/](https://www.digital.govt.nz/digital-government/digital-transformation/digital-inclusion/)
 
 
-    The Out of the Maze report indicated that digital inclusion requires these things:
+The Out of the Maze report indicated that digital inclusion requires these things:
 
 
 
@@ -50,19 +50,19 @@ Read on below for some background, to find out more about what we are thinking, 
 ### Why is digital equity important? 
 
 
-    COVID-19 has increased the reliance of New Zealanders on the Internet for work and study, information and entertainment, social interaction and commerce.  
+COVID-19 has increased the reliance of New Zealanders on the Internet for work and study, information and entertainment, social interaction and commerce.  
 
 
-    It has also brought into sharper focus the reality that many New Zealanders are excluded from the digital world.  
+It has also brought into sharper focus the reality that many New Zealanders are excluded from the digital world.  
 
 
-    Digital equity is a key part of our national response to COVID-19, but is also important as a foundation for the longer term wellbeing and economic prosperity of New Zealanders.
+Digital equity is a key part of our national response to COVID-19, but is also important as a foundation for the longer term wellbeing and economic prosperity of New Zealanders.
 
 
-    Often it is those New Zealanders who might have the most to gain from the Internet that are the ones who face the highest barriers. This includes families on low incomes, seniors, Māori, Pasifika, those with disabilities, and our remote communities. Digital engagement can play a significant role in improving social outcomes and individual wellbeing through opportunities available in the digital world.
+Often it is those New Zealanders who might have the most to gain from the Internet that are the ones who face the highest barriers. This includes families on low incomes, seniors, Māori, Pasifika, those with disabilities, and our remote communities. Digital engagement can play a significant role in improving social outcomes and individual wellbeing through opportunities available in the digital world.
 
 
-    And with more services (particularly government services) going exclusively online, people who are not able to access those services are becoming increasingly disadvantaged. 
+And with more services (particularly government services) going exclusively online, people who are not able to access those services are becoming increasingly disadvantaged. 
 
 
 ### What is the digital inclusion ecosystem?
@@ -204,46 +204,6 @@ Helen Anderson - Programme & Relationships Lead
    <td><a href="www.sparknz.co.nz/sustainability/foundation/">www.sparknz.co.nz/sustainability/foundation/</a>
    </td>
    <td>Kate Thomas - Executive Lead
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
    </td>
   </tr>
 </table>
